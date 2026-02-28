@@ -1,0 +1,12 @@
+channels:
+  voice:
+    enabled: true
+    provider: baidu
+    app_id: "122157807"
+    baidu_api_key: "AXx2lV4pHrACyEdYREkPWEUp"
+    baidu_secret_key: "Hc6jD3NyPNUaPqKq5HFQgybpfMVqWwbY"
+    language: "zh"  # 只能是zh或en
+    tts_speed: 0.8  # 0.1-2.0
+    tts_voice_name: 4  # 1-11，其中1:男, 2:女, 3:男, 4:女, 5:情感男, 6:情感女
+    vol: 5  # 0-15
+    pit: 5  # 0-9
